@@ -1,5 +1,5 @@
 # Figma-Twitter-Clone
-I've clone the design and prototype of Twitter mobile app version 2021 with Figma
+I've cloned the design and prototype of Twitter mobile app version 2021 with Figma
 
 Project Link :
 
